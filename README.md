@@ -1,6 +1,9 @@
-### Oi, eu sou o João Guilherme
+# João Guilherme
 
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoexe&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoexe&theme=transparent&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=8A2BE2&title_color=9370DB&text_color=DDA0DD)
+
+
+
 
 ## Tecnologias que eu uso no dia...
 
