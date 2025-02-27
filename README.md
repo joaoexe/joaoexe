@@ -2,6 +2,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoexe&theme=transparent&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=8A2BE2&title_color=9370DB&text_color=DDA0DD)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 
 
