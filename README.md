@@ -1,13 +1,7 @@
 # João Guilherme
 
-## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEUUSERNAME/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@SEUUSERNAME/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaoexe&theme=transparent&bg_color=000&border_color=8A2BE2&show_icons=true&icon_color=8A2BE2&title_color=9370DB&text_color=DDA0DD)
-
-
 
 ## Tecnologias que eu uso no dia...
 
